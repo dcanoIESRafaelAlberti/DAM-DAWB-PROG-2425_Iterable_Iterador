@@ -136,10 +136,10 @@ Cada lenguaje tiene su forma de manejar iterables, pero el concepto básico es s
 
 Aunque el `for` es adecuado para la mayoría de los casos, los iteradores son esenciales cuando necesitamos:
 
-- Procesar datos parciales o detenerte en cualquier punto.
+- Procesar datos parciales o detenernos en cualquier punto.
 - Trabajar con datos infinitos o grandes conjuntos que no caben en memoria.
 - Controlar exactamente cómo y cuándo se consumen los elementos.
-- Personalizar la lógica de iteración, como al crear tus propios iterables o generadores.
+- Personalizar la lógica de iteración, como al crear nuestros propios iterables o generadores.
 
 Los iteradores son una muy buena herramienta que nos proporciona control y eficiencia en casos avanzados. Para tareas cotidianas, el `for` sigue siendo la opción más sencilla y legible.
 
