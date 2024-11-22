@@ -142,3 +142,9 @@ Aunque el `for` es adecuado para la mayoría de los casos, los iteradores son es
 - Personalizar la lógica de iteración, como al crear tus propios iterables o generadores.
 
 Los iteradores son una muy buena herramienta que nos proporciona control y eficiencia en casos avanzados. Para tareas cotidianas, el `for` sigue siendo la opción más sencilla y legible.
+
+---
+
+## ACTIVIDADES
+
+El enunciado de las actividades que tenéis que realizar están en el fichero [ACTIVIDADES.md](ACTIVIDADES.md)
