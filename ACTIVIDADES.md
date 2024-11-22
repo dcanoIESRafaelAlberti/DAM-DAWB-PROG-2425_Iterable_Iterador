@@ -70,6 +70,7 @@ imprimir_matriz(matriz)
 0, 1, 0, 1, 0
 1, 0, 0, 0, 1
 ```
+
 #### **Extra:**
 
 Si tienes tiempo haz que el programa limpie la pantalla, pida al usuario el tamaño de la matriz *(no será posible generar una matriz inferior a 1, ni superior a 25)*, la genere e imprima por pantalla, haga una pausa hasta que pulse una tecla y permanezca en bucle hasta que introduzcas una cadena vacía.
